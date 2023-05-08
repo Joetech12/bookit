@@ -110,7 +110,7 @@ const LoginModal = () => {
       text-neutral-500 text-center mt-4 font-light"
       >
         <p>
-          First time using Airbnb?
+          First time using Bookit?
           <span
             onClick={onToggle}
             className="
